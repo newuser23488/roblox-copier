@@ -1,6 +1,6 @@
 # Roblox Copier
 
-## This is a script that copies roblox games, to make it work first you have to: 
+This is a script that copies roblox games, to make it work first you have to: 
 
 Open CMD
 
